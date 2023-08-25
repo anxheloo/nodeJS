@@ -1,0 +1,5 @@
+THIS IS A INPUT TEXT
+
+This is append.txt
+
+Date created Thu Aug 24 2023 11:49:21 GMT+0200 (Central European Summer Time)
